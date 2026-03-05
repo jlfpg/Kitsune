@@ -224,5 +224,3 @@ This tool is intended **for authorized testing only**.
 
 Do **not** use it against systems without permission.
 
-
----
