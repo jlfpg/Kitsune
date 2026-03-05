@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Version](https://img.shields.io/badge/version-1.0-red)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Security](https://img.shields.io/badge/purpose-security%20labs-orange)
+![Security](https://img.shields.io/badge/purpose-security-orange)
 ![Status](https://img.shields.io/badge/status-active-success)
 
 Kitsune is a Python-based web form discovery and interaction tool designed for security audits and phishing audits. It crawls a website, discovers forms across multiple pages, extracts their fields, and optionally interacts with them by sending randomized data.
@@ -223,5 +223,6 @@ Fields:
 This tool is intended **for authorized testing only**.
 
 Do **not** use it against systems without permission.
+
 
 ---
